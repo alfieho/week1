@@ -1,0 +1,18 @@
+#light {
+    border: 5px solid green;
+    background-color: white;
+    background-color: rgb(240, 216, 216);
+    color: black;
+
+
+p {
+         background-color: beige;
+         color: rgb(255, 47, 47);
+     }
+
+     h3 {
+         color: rgb(44, 71, 3);
+         background-color: rgb(148, 158, 155);
+         padding: 10px;
+     }
+}
